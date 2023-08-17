@@ -7,3 +7,5 @@ The XML Converter application also provides options for advanced users to encryp
 Another notable aspect of the XML Converter application is its flexibility in file management. After the conversion process, users have the option to save the converted XML file with a custom name and in a location of their choice. This feature allows for better organization and easy retrieval of converted XML files, facilitating efficient data management practices.
 
 The application's design is focused on performance and efficiency. The underlying code is implemented using Java. This choice ensures that the XML Converter application can be run on various operating systems without any compatibility issues. Additionally, the application leverages well-established libraries and APIs, such as the Java XML processing capabilities, to provide a robust and reliable solution for text-to-XML conversion.
+
+***(The drag and drop doesn't work Properly)***
